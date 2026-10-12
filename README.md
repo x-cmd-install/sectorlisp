@@ -31,7 +31,7 @@ Total: **4,298** lines of code across **12** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,526 · **Forks**: 77 · **Open issues**: 16 · **Contributors**: 11
+- **Stars**: 1,525 · **Forks**: 77 · **Open issues**: 16 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -41,12 +41,12 @@ Total: **4,298** lines of code across **12** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-14 | 0 | 2 | 0 | 1 | 0 | 4 |
-| 360d | 2025-10-16 | 0 | 2 | 0 | 2 | 2 | 4 |
-| last720d | 2024-10-21 | 0 | 2 | 0 | 2 | 3 | 7 |
+| 30d | 2026-09-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-13 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-15 | 0 | 2 | 0 | 1 | 0 | 4 |
+| 360d | 2025-10-17 | 0 | 2 | 0 | 2 | 2 | 4 |
+| last720d | 2024-10-22 | 0 | 2 | 0 | 2 | 3 | 7 |
 
 ## Improve this data
 
@@ -57,4 +57,4 @@ Install metadata for sectorlisp lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261011.yml` · 2026-10-11T06:35:10Z._
+_Snapshot: `data/card/261012.yml` · 2026-10-12T07:03:41Z._
